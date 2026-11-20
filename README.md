@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## TechTicker Daily
+
+[TechTicker Daily](https://techtickerdaily.blogspot.com/) — AI, finance and markets, explained simply.
